@@ -9,6 +9,7 @@ public class Test_Class {
 		int X=10;
 		int Y=50;
 		System.out.println(X+Y);
+
 	}
 
 }

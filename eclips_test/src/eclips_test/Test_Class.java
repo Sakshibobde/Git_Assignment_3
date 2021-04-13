@@ -6,9 +6,9 @@ public class Test_Class {
 		System.out.println("Sakshi Sanjay Bobde");
 		
 
-		int a=10;
-		int b=50;
-		System.out.println(a+b);
+		int a_int=10;
+		int b_int=50;
+		System.out.println(a_int*b_int);
 	}
 
 }
